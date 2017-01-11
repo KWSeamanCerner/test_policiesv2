@@ -11,7 +11,7 @@
         "Action": "sts:AssumeRole"
       }
     ]
-  }
+  },
   "policies": [
     "example1",
     "example2"
