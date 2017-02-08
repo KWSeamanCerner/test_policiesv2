@@ -5,7 +5,8 @@
       "Effect": "Allow",
       "Action": [
         "s3:*",
-        "iam:*"
+        "iam:*",
+        "ec2:*"
       ],
       "Resource": [
         "*"
